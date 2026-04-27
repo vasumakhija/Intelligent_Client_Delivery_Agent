@@ -1,0 +1,4 @@
+project_id,project_name,client_name,delivery_type,project_manager,start_date,target_end_date,current_status,priority,planned_total_hours,active_flag
+P001,Alpha,Contoso,Power BI,Vasu,2026-03-01,2026-05-30,Active,High,320,True
+P002,Beta,Fabrikam,D365,Vasu,2026-03-05,2026-06-10,Active,Medium,300,True
+P003,Gamma,Northwind,Power BI,Vasu,2026-03-03,2026-05-20,Active,High,340,True

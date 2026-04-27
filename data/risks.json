@@ -1,0 +1,42 @@
+[
+  {
+    "project_id": "P001",
+    "risk_title": "Minor visual alignment clarification",
+    "severity": "Low",
+    "status": "Open",
+    "mitigation": "Resolve during next client sync",
+    "owner": "Vasu"
+  },
+  {
+    "project_id": "P002",
+    "risk_title": "Finance data mapping inconsistency",
+    "severity": "Medium",
+    "status": "Open",
+    "mitigation": "Freeze mapping and validate source fields",
+    "owner": "Vasu"
+  },
+  {
+    "project_id": "P002",
+    "risk_title": "Open defect may delay UAT",
+    "severity": "Medium",
+    "status": "Open",
+    "mitigation": "Prioritize bug fixing in current sprint",
+    "owner": "Vasu"
+  },
+  {
+    "project_id": "P003",
+    "risk_title": "Executive KPI definitions not finalized",
+    "severity": "High",
+    "status": "Open",
+    "mitigation": "Escalate in steering review and lock KPI scope",
+    "owner": "Vasu"
+  },
+  {
+    "project_id": "P003",
+    "risk_title": "Multiple blocked work items impacting delivery",
+    "severity": "High",
+    "status": "Open",
+    "mitigation": "Resolve upstream dependencies and rebalance sprint load",
+    "owner": "Vasu"
+  }
+]

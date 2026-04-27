@@ -1,0 +1,7 @@
+project_id,sprint_id,sprint_name,sprint_start,sprint_end,planned_story_points,completed_story_points,carryover_story_points,blocked_items_count,open_bugs_count,sprint_status
+P001,S1,Alpha Sprint 1,2026-03-01,2026-03-14,30,27,3,1,1,Completed
+P001,S2,Alpha Sprint 2,2026-03-15,2026-03-28,32,29,3,1,1,In Progress
+P002,S1,Beta Sprint 1,2026-03-01,2026-03-14,28,20,8,2,2,Completed
+P002,S2,Beta Sprint 2,2026-03-15,2026-03-28,30,21,9,3,2,In Progress
+P003,S1,Gamma Sprint 1,2026-03-01,2026-03-14,35,18,17,4,3,Completed
+P003,S2,Gamma Sprint 2,2026-03-15,2026-03-28,36,16,20,5,4,In Progress

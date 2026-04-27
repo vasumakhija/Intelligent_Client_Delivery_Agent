@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+report_output.html

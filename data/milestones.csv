@@ -1,0 +1,12 @@
+project_id,milestone_name,due_date,status,delay_days,owner,notes
+P001,Requirements Signoff,2026-03-12,Completed,0,Vasu,Completed on schedule
+P001,Prototype Demo,2026-03-22,Completed,0,Vasu,Demo approved by stakeholders
+P001,UAT Start,2026-04-05,On Track,0,Vasu,No dependency issues
+
+P002,Requirements Signoff,2026-03-13,Completed,0,Vasu,Completed after minor edits
+P002,Data Validation,2026-03-24,Delayed,3,Vasu,Finance mapping review took longer
+P002,UAT Start,2026-04-08,Watchlist,2,Vasu,Dependent on open bug fixes
+
+P003,Requirements Signoff,2026-03-12,Completed,1,Vasu,Signoff received after escalation
+P003,Executive Review,2026-03-23,Delayed,8,Vasu,KPI definitions still unstable
+P003,UAT Start,2026-04-03,Delayed,10,Vasu,Blocked by unresolved dashboard dependencies
